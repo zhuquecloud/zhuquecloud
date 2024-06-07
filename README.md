@@ -23,12 +23,6 @@ Linux：Shell clash、Clash For Windows、clash-verge-rev的Linux版本
 shadowsocksR软件只能买ssr的机场； sstap支持ss,需使用订阅转换为SS（SIP002）； Surfboard和Surge不支持shadowsocksR。 
 
 
-
-下面有一家值得推荐的机场，这个机场是我主动推荐的，并非机场主来找我打广告的，可以找任何一家机场主证实，这样我想推荐哪家机场就推荐哪家机场，不好了就不推荐了，自由：
-
-太长不看版：
-想稳定，买放前面的，最好20块/月起的，暂时不稳的都放后面了  
-
  老牌机场推荐：朱雀云
 朱雀云官网
 长期有效跳转地址：16168.top
